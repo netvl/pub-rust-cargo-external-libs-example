@@ -1,0 +1,6 @@
+[package]
+
+name = "extlib"
+version = "0.0.1"
+authors = ["Vladimir Matveev <vladimir.matweev@gmail.com>"]
+build = "bash build.sh"
